@@ -1,7 +1,4 @@
-Added into local repo
-
 Added from local repo
 
 Added to lrepo
 
-Line added to compare Local  branch vs Remote Branch  <Command> $git diff master origin/master
