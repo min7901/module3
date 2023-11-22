@@ -6,3 +6,5 @@ read n
 echo "your name is " + n
 
 echo " Another name :" Sharath
+
+echo "amend test line"
